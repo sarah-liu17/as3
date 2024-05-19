@@ -8,4 +8,8 @@ library(tidyverse)
 library(ggplot2)
 ```
 
+<<<<<<< HEAD
 more information about the intro
+=======
+some important changes about the intro.
+>>>>>>> testbranch
